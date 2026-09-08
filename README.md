@@ -15,7 +15,7 @@ python3 -m http.server 8000
 
 1. 推送本仓库到 GitHub
 2. 仓库 Settings → Pages → Source 选择 `main` 分支 `/ (root)`
-3. 约 1 分钟后访问 `https://<用户名>.github.io/project_apologize/`
+3. 约 1 分钟后访问 `https://WoodenRiver.github.io/project_apologize/`
 
 ## 部署前必做
 

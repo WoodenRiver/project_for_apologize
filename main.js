@@ -72,7 +72,7 @@ function finishApology() {
   if (!playing) return;
   playing = false;
   img.src = IMG_STAND;
-  btn.textContent = '再道一次歉 🙇';
+  btn.textContent = '认不认罪？ 🙇';
   btn.hidden = false;
 }
 
